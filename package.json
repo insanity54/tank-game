@@ -1,0 +1,10 @@
+{
+  "name": "tank-game",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/insanity54/tank-game.git",
+  "author": "Chris Grimmett <chris@grimtech.net>",
+  "license": "Unlicense",
+  "private": true,
+  "workspaces": ["packages/client", "packages/server"]
+}
